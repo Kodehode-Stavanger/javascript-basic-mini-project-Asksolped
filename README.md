@@ -7,4 +7,6 @@ The challenge is to make a mini project. You have full creative freedom, but you
 - [Circle maker](https://github.com/Kodehode-Stavanger/circle-maker)
 - [Unit converter](https://github.com/Kodehode-Stavanger/unit-converter)
 
+**Remember to activate GitHub Pages for your project!**
+
 *Good luck!*
